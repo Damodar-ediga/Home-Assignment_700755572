@@ -86,7 +86,8 @@ Train an LSTM-based model for sentiment classification on the IMDB dataset.
 
 ## Conclusion
 This project demonstrates autoencoder-based image reconstruction and denoising, as well as RNN-based text generation and sentiment classification. Each task highlights key concepts in deep learning and sequence modeling.
-
+------
+Video Link : https://drive.google.com/drive/folders/1AeF-5gHyTVCvnUI52H6b0DF04sS9aMkJ?usp=share_link
 ---
 
 **Author:** Damodar Goud Ediga  
